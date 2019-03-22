@@ -1,0 +1,29 @@
+
+t = 0.1 vs. t = 1
+
+Discord :
+Graphs of discord are almost exactly the same, except a few amplitude and phase shifts.
+The amplitudes are higher for higher values of t.
+
+OTOC :
+In this case, although the behaviour is similar, many peaks appear to be smeared out for higher t. There are fewer and less sharper peaks for higher t.
+Small time oscillations/fluctualtions seen in the sx-sx config seem to disappear/get smeared out
+
+
+----------------------
+OTOC 
+
++ sz-sz -> Negligible change seen in amplitude, remains close to 1
++ sx-sz -> Clean and periodic pattern seen. Amplitude drops only to approx. 0.992
++ sx-sx -> Unpredictable behaviour. minima in amplitude of about 0.7. However, overall behaviour looks similar to that seen in other OTOC papers
++ sz-sx -> similar to sx-sx
+
+
+
+----------------------
+Discord
+
++ sz-sz -> Negligible change seen in amplitude, remains close to a low value (after starting at 1, because the initial state was taken to be bell-diagonal)
++ sx-sz -> Periodic oscilations but amplitude remains low (approx. 0.1)
++ sx-sx -> unpredictable oscillations. amplitude approx. 0.5
++ sz-sx -> similar to sx-sx
