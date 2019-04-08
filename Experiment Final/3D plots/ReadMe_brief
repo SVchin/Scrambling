@@ -1,0 +1,3 @@
+Previously, we had studied/ plotted the evolution of discord only for two initial sctambling times (which correspond to the value of "t" in the program). Now we just iterate the same over a wider range of "t" to look at some general features and behaviours that accompany this variation. This has been done for all combinations of couplings between the two qubits and two layers of environment. 
+
+Note: In some figures, the "t" axis has incorrect values. However the code has been corrected and two figures have been plotted after it. 
