@@ -1,0 +1,17 @@
+This is the scenario which indeed gives the behaviour that we had predicted.
+
+In the case of discord, we see a clear decay.
+
+However, in this case we also see a clear decay and loss of periodicity in the time evolution of OTOC.
+
+Common features : 
+Decay and loss of periodicity of both quantities.
+
+It seems that the value that the quantity saturates to (after oscillations) is dependant on the intial 't'
+
+-----------------------------
+tf always on :
+
+
+tf on scrambling only :
+

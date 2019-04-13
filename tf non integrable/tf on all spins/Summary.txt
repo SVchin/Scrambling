@@ -1,0 +1,6 @@
+In this case, a very interesting feature is seen in both subcases (on application of field on all spins vs. only on environmental spins)
+
+It is seen that in this case, the discord undergoes rapid decay. Periodic behaviour with very low amplitude is seen after the amplitude undergoes a major decay.
+
+On the other hand, another surprising feature is seen in the time evolution of OTOC. Here we see that the behaviour is always regular and shows repeated and periodic revival. More surprisingly, this is also the case in which we get non-periodicity/decay in the absence of these additional fields. (for example, in the sx-sx coupling)
+
